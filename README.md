@@ -19,5 +19,5 @@ Emojinator uses a *Large Language Model (LLM)* trained to understand context, se
 4. Click "Stop" to halt the process if necessary.
 5. Toggle between dark and light mode using the `🌙`/`☀️` button.
 
-
-![## Demo](media/demo.mp4)
+## Demo
+https://github.com/user-attachments/assets/082615a3-b446-49ff-b650-e7931b180bcb
