@@ -2,9 +2,6 @@
 
 Emojinator uses a *Large Language Model (LLM)* trained to understand context, sentiment, and meaning—responding with emojis only. Whether you're texting, posting, or translating emotions, Emojinator makes communication more concise, engaging, and fun!
 
-## Demo
-<video src="media/demo.mp4" controls width="600"></video>
-
 ## Features
 - **Text Input**: The user can converse with emojinator using a provided text input field.
 - **Voice Input**: Speech-to-text functionality is integrated.
@@ -17,7 +14,10 @@ Emojinator uses a *Large Language Model (LLM)* trained to understand context, se
 3. Open `index.html` in a web browser.
 
 ## Usage
-1. Type a message in the input box, or for voice input, use the microphone button `🎙️ `to enable voice input.
+1. Type a message in the input box, or for voice input, use the microphone button `🎙️`to enable voice input.
 3. Click "Start" to begin processing and rendering of emojinator's response.
 4. Click "Stop" to halt the process if necessary.
 5. Toggle between dark and light mode using the `🌙`/`☀️` button.
+
+
+![## Demo](media/demo.mp4)
