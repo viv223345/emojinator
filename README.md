@@ -2,7 +2,7 @@
 
 Emojinator uses a *Large Language Model (LLM)* trained to understand context, sentiment, and meaning—responding with emojis only. Whether you're texting, posting, or translating emotions, Emojinator makes communication more concise, engaging, and fun!
 
-## Featuresss
+## Features
 - **Text Input**: The user can converse with emojinator using a provided text input field.
 - **Voice Input**: Speech-to-text functionality is integrated.
 - **Light/Dark Theming**: Switch between light and dark mode.
